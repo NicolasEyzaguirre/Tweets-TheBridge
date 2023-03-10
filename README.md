@@ -1,7 +1,7 @@
 # *Tweets-TheBridge* 
 
 
-[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-TheBridge-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](https://www.thebridge.tech/) ![Powered by NumFOCUS](https://img.shields.io/badge/Contributors-4-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)  
+[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-TheBridge-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](https://www.thebridge.tech/) ![Powered by NumFOCUS](https://img.shields.io/badge/Contributors-1-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)  
 
 ### Table of Contents  
 [Intro](#Intro)    
